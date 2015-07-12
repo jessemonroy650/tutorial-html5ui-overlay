@@ -1,0 +1,13 @@
+@media screen and (max-device-width:640px) {
+  .textPositionFromLeft {top:4.5em;left:1em;}
+  .bp_img {width:150px;margin:0 2%;}
+}
+@media screen and (max-device-width:480px) {
+  .textPositionFromLeft {top:5em;left:1.5em;}
+  .bp_img {width:150px;margin:5%;}
+}
+@media screen and (max-device-width:320px) {
+  .textboxToOverlay {width:6em;font-size:small;}
+  .textPositionFromLeft {top: 3.5em; left: 1em;}
+  .bp_img {width:100px;margin:2%;}
+}
