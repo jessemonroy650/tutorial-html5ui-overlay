@@ -3,7 +3,7 @@ Code for an tutorial to put an overlay on an image with HTML5 and CSS3
 
 This is the code for a [tutorial on putting overly on to an image](http://codesnippets.altervista.org/tutorials/2015/BLOG.2015-07-11.jssnippets.html).
 
-As an experiment, after you download this source, open webpage in a webbrowser, then change the font-size from medium to large. Then change the *viewport* configuration by putting your browser into emulation mode for a mobile device.
+As an experiment, after you download this source, open webpage in a webbrowser, then change the font-size from medium to ```large```. Then change the *viewport* configuration by putting your browser into emulation mode for a mobile device.
 
 This is the CSS code to change:
 ```body {margin:0px;font-size:medium;}```
