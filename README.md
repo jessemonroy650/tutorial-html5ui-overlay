@@ -6,7 +6,7 @@ This is the code for a [tutorial on putting overly on to an image](http://codesn
 As an experiment, after you download this source, open webpage in a webbrowser, then change the font-size from medium to large. Then change the *viewport* configuration by putting your browser into emulation mode for a mobile device.
 
 This is the CSS code to change:
-```body {margin:0px;font-size:medium;}``
+```body {margin:0px;font-size:medium;}```
 
 This change put you into emulation mode:
 * ctrl-shift-m - on Mozilla Firefox
